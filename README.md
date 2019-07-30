@@ -1,2 +1,2 @@
 # NetCoreEFDemo
- .NetCore 3 +EFCore Migration + WebAPI + GraphQL + Swagger + JWT on Windows
+  .NetCore 3 +EFCore + WebAPI + GraphQL + Swagger  (DDD Patten)
